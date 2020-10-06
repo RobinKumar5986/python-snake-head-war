@@ -5,7 +5,7 @@
 import turtle
 import random
 import math
-
+'''game'''
 #making play zone
 #play zone baground
 sc=turtle.Screen()           #defining screen object
